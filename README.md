@@ -1,4 +1,4 @@
-# House-Price-Prediction
+# Begginner Projects 
 
 ## Made By 
 Namrata Muralidharan
